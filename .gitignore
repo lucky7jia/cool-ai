@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Research - 用于研究第三方开源项目
+research/
+
+# Expert Analyst 项目特定
+output/
+*.log
+.analyst/
